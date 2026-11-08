@@ -1,18 +1,20 @@
-Robotics and Autonomous Systems, Plaksha University (2027)
-
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Jatin-Sharma27/ros2-slam-navigation"><img src="https://github.com/Jatin-Sharma27/ros2-slam-navigation/raw/main/media/mapping.gif" width="100%"></a><br>
-      <sub>SLAM and path planning, ROS 2</sub>
+    <td align="center" width="25%">
+      <a href="https://github.com/Jatin-Sharma27/PIRL"><img src="https://github.com/Jatin-Sharma27/PIRL/raw/main/media/hardware_balance.gif" width="100%"></a><br>
+      <sub>Pendulum on hardware</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <a href="https://github.com/Jatin-Sharma27/ros2-slam-navigation"><img src="https://github.com/Jatin-Sharma27/ros2-slam-navigation/raw/main/media/mapping.gif" width="100%"></a><br>
+      <sub>SLAM, ROS 2</sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://github.com/Jatin-Sharma27/motor-test-rig"><img src="https://github.com/Jatin-Sharma27/motor-test-rig/raw/main/media/rig_motor_closeup.jpg" width="100%"></a><br>
       <sub>Motor test rig</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/Jatin-Sharma27/sfm-3d-reconstruction"><img src="https://github.com/Jatin-Sharma27/sfm-3d-reconstruction/raw/main/outputs/16_photo_vs_dense.png" width="100%"></a><br>
-      <sub>3D reconstruction from photos</sub>
+      <sub>3D reconstruction</sub>
     </td>
   </tr>
 </table>
